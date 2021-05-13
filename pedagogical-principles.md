@@ -68,8 +68,14 @@ In order to help prevent participants from being overwhelmed and allow us to go 
 - conclude last lab for making a pretty table or graph that communicates one key insight from their Knowledge Checks and addresses a guiding research question. 
 
 ### Lab Components
-  - prepare
-  - wrangle
-  - explore
-  - model
-  - communicate
+#### prepare
+
+#### wrangle
+
+#### explore
+
+#### model
+
+#### communicate
+- teaser for topics covered in OCoP later  
+- different “data product” formats and approaches, table and chart for pubs, interactive data table for HTML site, whatever.
