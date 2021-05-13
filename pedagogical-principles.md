@@ -1,8 +1,8 @@
-LASER Learning Lab Planning
+# LASER Learning Lab Planning
 
 LASER curriculum team: Shaun Kellogg, Shiyan Jiang, Joshua Rosenberg
 
-General pedagogical principles
+## General pedagogical principles
  
 1. Be STEM specific and realistic
    - situated in STEM ed research
@@ -34,26 +34,40 @@ General pedagogical principles
    - early wins - esp. via plots
    - supporting motivation as much as students’ conceptual/technical understanding early on
    - think of the first and the big take-aways/"wins" from each unit - first viz, world cloud, etc.
+   - 
 
-Platform
+## Platform
 - RStudio Cloud
 - Allow folks to download projects
 - Ween people off of RStudio Cloud later on
 
-Presentation - structure
+## Presentation - structure
 
 - The context
 - The terminology/big ideas
 - The literature
 - The lab
 
-Labs - structure and timeline
+## Modules &  Labs 
 
-- timeline
-  - 10 min pres. in xaringan
-  - 50 min. group practice through a rendered Rmd doc (is that all right?) - possibly learnr
-  - 30 min. independent wrk?
-- components
+### timeline
+- 10 min pres. in xaringan
+- 50 min. group practice through a rendered Rmd doc (is that all right?) - possibly learnr
+- 30 min. independent wrk?
+
+### Module Structure
+
+In order to help prevent participants from being overwhelmed and allow us to go a little deeper into explaining the concepts (e.g., tokenization) and function we introduce: 
+- shift away from four independent analyses/labs that each covere a different analytical technique (e.g., sentiment analysis, topic modeling) 
+- move to a single overarching analysis using a single dataset 
+- anchor with a research article(s) that spans multiple labs 
+- introduce just a couple advanced techniques at most
+- focus first labs on elaborating on the context, data import and data wrangling 
+- follow with some basic exploratory analysis to understand the data better like distribution plots, table summaries, word clouds, and the 
+- using later labs to demonstrate and practice a more advanced analysis and modeling technique with an opportunity in the 
+- conclude last lab for making a pretty table or graph that communicates one key insight from their Knowledge Checks and addresses a guiding research question. 
+
+### Lab Components
   - prepare
   - wrangle
   - explore
