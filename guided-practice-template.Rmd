@@ -1,0 +1,84 @@
+---
+title: "Learning Lab X-X"
+subtitle: "Buided Practice"
+author: ""
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## 0. Setting Up
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+```
+
+## 1. Prepare
+
+### Your Turn A
+
+- <add your text here>
+
+### Your Turn B
+
+```{r}
+
+```
+
+## 2. Wrangle
+
+### Your Turn A
+
+- <add your text here>
+
+### Your Turn B
+
+```{r}
+
+```
+
+## 3. Explore
+
+### Your Turn A
+
+- <add your text here>
+
+### Your Turn B
+
+```{r}
+
+```
+
+## 4. Model
+
+### Your Turn A
+
+- <add your text here>
+
+### Your Turn B
+
+```{r}
+
+```
+
+## 5. Communicate
+
+### Your Turn A
+
+- <add your text here>
+
+### Your Turn B
+
+```{r}
+
+```
+
+## 6. Addendum
+
+- <Note one thing you learned/took away from this guided 
+practice>
+
+- <Note one thing you still want to learn more about after completing this guided practice>
