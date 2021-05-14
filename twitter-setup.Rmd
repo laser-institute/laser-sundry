@@ -44,11 +44,13 @@ In order to use Twitter's API, you will need to set up a Twitter developer accou
 
 ![](img/twitter-apply.png){width="80%"}
 
-3.  On the next page, click on "Apply for a
+3.  On the next page, click the `Apply for a developer account` button.
 
 ![](img/twitter-developer.png){width="80%"}
 
-4.  Next, you'll be asked to select a developer account \#UseCase. For the LASER Institute, **I recommend selecting `Student` under the `Academic` use case to facilitate approval.**
+4.  Next, you'll be asked to select a developer account \#UseCase.
+
+    -   For the LASER Institute, **I recommend selecting `Student` under the `Academic` use case to facilitate approval.**
 
     -   Later, you can apply for an [Academic Research](https://developer.twitter.com/en/solutions/academic-research) account if you anticipate working with Twitter data for a future research project.
 
